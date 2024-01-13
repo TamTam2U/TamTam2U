@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Golang,NestJs,MySQL,ElasticSearch,Python,React**
+- 🔭 I’m currently working on **Golang,NestJs,MySQL,Redis,Python,NextJs**
 
 - 🌱 I`m learning every day
 
