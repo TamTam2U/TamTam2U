@@ -107,7 +107,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=TamTam2U&color=ff69b4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TamTam2U&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
 
