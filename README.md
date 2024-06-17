@@ -64,6 +64,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TamTam2U&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
+  <img src="https://www.codewars.com/users/TamTam2U/badges/large">
 </div>
 <!--- trophy (start) -->
 
@@ -83,7 +84,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,cpp,css,discord,docker,express,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,go,astro,elasticsearch,php,laravel,nestjs,postgres,redis,svelte&perline=14" />
   </a>
-  ![image](https://www.codewars.com/users/TamTam2U/badges/large)
 </p>
 
 
