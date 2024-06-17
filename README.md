@@ -83,6 +83,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,cpp,css,discord,docker,express,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,go,astro,elasticsearch,php,laravel,nestjs,postgres,redis,svelte&perline=14" />
   </a>
+  ![image](https://www.codewars.com/users/TamTam2U/badges/large)
 </p>
 
 
