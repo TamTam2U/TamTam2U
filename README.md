@@ -64,10 +64,20 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TamTam2U&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-  <img src="https://www.codewars.com/users/TamTam2U/badges/large">
 </div>
 <!--- trophy (start) -->
 
+<!-- skill (start) -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Skill</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://www.codewars.com/users/TamTam2U/badges/large">
+</div>
 
 </p>        
 <!--- stats (end) -->
